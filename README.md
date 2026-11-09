@@ -9,15 +9,10 @@ TreeHacks 2026 · Built in 36 hours · Team of 4 · Forked from [danielmargento/
 - Shipped a working AI tutor in 36 hours that helps students without handing out answers
 - Gave instructors 3 help levels per assignment (Strict, Guided, Full Support), plus switches to block final answers or full code
 - Tied every answer to course materials with clickable citations, using retrieval-augmented generation (RAG): the tutor searches the course files before it responds
-- Competed at TreeHacks 2026, Stanford's hackathon, which admitted about 1,000 of 15,000+ applicants
 
 ## Built with
 
 TypeScript · Next.js · Tailwind CSS · Supabase · OpenAI API
-
-## My role
-
-Led a team of 4 from idea to working demo.
 
 ---
 
