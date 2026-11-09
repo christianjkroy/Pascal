@@ -1,15 +1,15 @@
 # Pascal
 
-**AI tutor that answers from course materials and enforces each class's honor code.**
+**An AI tutor that answers from course materials and follows each class's honor code.**
 
 TreeHacks 2026 · Built in 36 hours · Team of 4 · Forked from [danielmargento/pigeonhole](https://github.com/danielmargento/pigeonhole)
 
 ## Highlights
 
-- Led a 4-person team to ship an AI tutor in 36 hours that gives real help without handing out answers
-- Gave instructors control of help levels per assignment (Strict, Guided, Full Support) and the option to block final answers or full code
-- Grounded every answer in course materials with RAG over OpenAI embeddings and Supabase vector search, with clickable citations
-- Built at TreeHacks 2026, where about 1,000 hackers were admitted from 15,000+ applicants
+- Shipped a working AI tutor in 36 hours that helps students without handing out answers
+- Gave instructors 3 help levels per assignment (Strict, Guided, Full Support), plus switches to block final answers or full code
+- Tied every answer to course materials with clickable citations, using retrieval-augmented generation (RAG): the tutor searches the course files before it responds
+- Competed at TreeHacks 2026, Stanford's hackathon, which admitted about 1,000 of 15,000+ applicants
 
 ## Built with
 
@@ -17,7 +17,7 @@ TypeScript · Next.js · Tailwind CSS · Supabase · OpenAI API
 
 ## My role
 
-Led the team from idea to working demo.
+Led a team of 4 from idea to working demo.
 
 ---
 
