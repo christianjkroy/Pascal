@@ -1,8 +1,23 @@
-# 🎓 Pascal — AI Teaching Assistant
+# Pascal
 
-AI isn't going anywhere. Students are already using ChatGPT, Claude, and Copilot to do their homework — often getting complete solutions with zero learning. Banning AI tools doesn't work. The answer isn't prohibition; it's giving teachers control.
+**AI tutor that answers from course materials and enforces each class's honor code.**
 
-**Pascal** is a course-aware AI TA that puts instructors in the loop. Teachers configure exactly how much help the bot gives, what it can and can't reveal, and which materials it draws from. Students get real-time scaffolded help that builds understanding — not an answer machine.
+TreeHacks 2026 · Built in 36 hours · Team of 4 · Forked from [danielmargento/pigeonhole](https://github.com/danielmargento/pigeonhole)
+
+## Highlights
+
+- Led a 4-person team to ship an AI tutor in 36 hours that gives real help without handing out answers
+- Gave instructors control of help levels per assignment (Strict, Guided, Full Support) and the option to block final answers or full code
+- Grounded every answer in course materials with RAG over OpenAI embeddings and Supabase vector search, with clickable citations
+- Built at TreeHacks 2026, where about 1,000 hackers were admitted from 15,000+ applicants
+
+## Built with
+
+TypeScript · Next.js · Tailwind CSS · Supabase · OpenAI API
+
+## My role
+
+Led the team from idea to working demo.
 
 ---
 
