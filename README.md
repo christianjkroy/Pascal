@@ -16,7 +16,7 @@ TypeScript · Next.js · Tailwind CSS · Supabase · OpenAI API
 
 ---
 
-## Why Pascal?
+## Why Pascal
 
 Most AI tools treat education as an afterthought. Students paste a homework problem into ChatGPT and get a full solution. They learn nothing. Teachers have no visibility or control.
 
@@ -31,7 +31,7 @@ Pascal flips this:
 
 ## Features
 
-### For Instructors
+### For instructors
 
 - **Course creation** with join codes for student enrollment
 - **Three help levels** per assignment: Strict (confirmation only), Guided (Socratic hints), Full Support (complete tutoring after effort shown)
@@ -47,7 +47,7 @@ Pascal flips this:
 - **Roster management**: view enrolled students
 - **Student view preview**: see exactly what students see
 
-### For Students
+### For students
 
 - **Assignment-aware chat**: select an assignment and get help scoped to that specific problem set and its materials
 - **Concept check quizzes**: inline multiple-choice questions after explanations to reinforce learning (toggleable)
@@ -58,7 +58,7 @@ Pascal flips this:
 - **Feedback**: rate responses as helpful, not helpful, or too revealing
 - **LaTeX and Markdown** rendering for math-heavy courses
 
-### Under the Hood
+### Under the hood
 
 - **RAG retrieval**: course materials are chunked, embedded, and searched via vector similarity so the bot references real content, not hallucinations
 - **Anchor boosting**: chunks from the designated assignment document get a similarity boost and a guaranteed secondary search fallback
@@ -69,7 +69,7 @@ Pascal flips this:
 
 ---
 
-## Getting Started
+## Getting started
 
 1. Clone the repo
 2. Copy `.env.example` to `.env.local` and fill in Supabase + OpenAI keys
@@ -79,7 +79,7 @@ Pascal flips this:
 
 ---
 
-## Project Structure
+## Project structure
 
 ```
 src/
