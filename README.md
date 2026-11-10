@@ -22,7 +22,7 @@ Most AI tools treat education as an afterthought. Students paste a homework prob
 
 Pascal flips this:
 
-- 🧑‍🏫 **Teacher in the loop.** Instructors set the rules (help level, allowed artifacts, topic restrictions, staff notes), and the bot follows them. The teacher decides whether students get Socratic questioning, guided hints, or full tutoring. Not the AI.
+- 🧑‍🏫 **Teacher in the loop.** Instructors set the rules (help level, allowed artifacts, topic restrictions, staff notes), and the bot follows them. The teacher decides whether students get Socratic questioning, guided hints, or full tutoring.
 - 🔒 **Integrity first.** The default is restrictive. No answers, no full code, attempt required first. Teachers opt *in* to more permissive modes when appropriate. The bot enforces academic integrity by design, not as an afterthought.
 - 📄 **Scoped to real course materials.** Pascal only knows what the teacher gives it: syllabi, lecture notes, and problem sets. It doesn't hallucinate references to materials that don't exist. When general chat is enabled, it's limited to teacher-selected documents.
 - 📌 **Assignment-aware.** Each assignment can have its own help level, anchor document, staff notes, and annotated hints. When a student asks about "question 4," the bot knows exactly which document to look in.
